@@ -38,7 +38,7 @@ At each time step:
 > Example: 60-second simulation with 10% efficiency  
 > ✅ Total Energy Recovered: **382.43 Joules**
 
-![Sample Plot](link-to-your-plot-if-hosted)
+![Simulation Output](Figure_2.png)
 
 ---
 
