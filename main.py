@@ -9,6 +9,7 @@ def run_simulation(efficiency):
         data = simulate_step(cpu_load, efficiency)
         data["time"] = t
         results.append(data)
+        results.append(make)
     return results
 
 
